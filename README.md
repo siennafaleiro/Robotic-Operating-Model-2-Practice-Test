@@ -65,9 +65,9 @@ These resources align with exam objectives and offer additional depth.
 
 **Reference link**
 
-[https://www.blueprism.com/products/rom/](https://www.blueprism.com/products/rom/)
-[https://university.blueprism.com/certification/rom2-professional](https://university.blueprism.com/certification/rom2-professional)
-[https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf](https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf)
-[https://github.com/blue-prism/ApplicationModellerConversion](https://github.com/blue-prism/ApplicationModellerConversion)
-[https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional](https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional)
+- [https://www.blueprism.com/products/rom/](https://www.blueprism.com/products/rom/)
+- [https://university.blueprism.com/certification/rom2-professional](https://university.blueprism.com/certification/rom2-professional)
+- [https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf](https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf)
+- [https://github.com/blue-prism/ApplicationModellerConversion](https://github.com/blue-prism/ApplicationModellerConversion)
+- [https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional](https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional)
 

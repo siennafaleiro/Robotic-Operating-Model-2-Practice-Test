@@ -70,4 +70,5 @@ These resources align with exam objectives and offer additional depth.
 - [https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf](https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf)
 - [https://github.com/blue-prism/ApplicationModellerConversion](https://github.com/blue-prism/ApplicationModellerConversion)
 - [https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional](https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional)
+- [https://www.udemy.com/topic/blue-prism/](https://www.udemy.com/topic/blue-prism/)
 

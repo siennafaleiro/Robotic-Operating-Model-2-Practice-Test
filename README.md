@@ -47,22 +47,12 @@ Strategic Advantages
 
 Not all practice exams are created equal. A top-tier Blue Prism ROM2 Practice Test should offer:
 
-**- Scenario-Based Questions:** Mirroring real-life business decisions.
-**- Detailed Explanations:** Not just what’s right or wrong, but why.
-**- Timed Sessions:** To build exam readiness under pressure.
-**- Progress Tracking:** Understand your improvement over time.
+- Scenario-Based Questions: Mirroring real-life business decisions.
+- Detailed Explanations: Not just what’s right or wrong, but why.
+- Timed Sessions: To build exam readiness under pressure.
+- Progress Tracking: Understand your improvement over time.
 
 Look for features that support you not just in passing, but mastering the material
-
-**Real-Life Use Case: From Study to Success**
-
-Take Nisha, a Blue Prism developer leading automation at a multinational retail firm. Struggling to get a grip on strategic frameworks, she turned to a comprehensive ROM 2 Practice Test. Over two weeks:
-
-- She identified gaps in her understanding of delivery methodology.
-- She refined her ability to align governance with business outcomes.
-- She passed the ROM 2 Professional exam with a 92% score.
-
-"It felt like I was studying with a coach," she says. "The practice tests turned complex ideas into manageable insights."
 
 **Leveraging Authority Resources**
 
@@ -72,3 +62,12 @@ Supplement your practice with insights from:
 - GitHub’s **[Application Modeller Conversion Project](https://github.com/blue-prism/ApplicationModellerConversion)** for tooling alignment
 
 These resources align with exam objectives and offer additional depth.
+
+**Reference link**
+
+[https://www.blueprism.com/products/rom/](https://www.blueprism.com/products/rom/)
+[https://university.blueprism.com/certification/rom2-professional](https://university.blueprism.com/certification/rom2-professional)
+[https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf](https://university.blueprism.com/assets/uploads/images/ROM2-Professional-Certification-Handbook.pdf)
+[https://github.com/blue-prism/ApplicationModellerConversion](https://github.com/blue-prism/ApplicationModellerConversion)
+[https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional](https://www.certfun.com/blue-prism/robotic-operating-model-2-blue-prism-rom-2-professional)
+

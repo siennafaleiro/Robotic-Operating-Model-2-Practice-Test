@@ -1,4 +1,8 @@
 # Robotic-Operating-Model-2-Practice-Test
+
+![Robotic-Operating-Model-2-Practice-Test](https://github.com/user-attachments/assets/c924dcef-71b8-43b2-a285-706e40c58196)
+
+
 Prepare confidently with a Robotic Operating Model 2 Practice Test. Master the Blue Prism ROM 2 Professional exam with expert strategies, real-life scenarios, and targeted prep.
 
 Preparing for the Robotic Operating Model 2: Blue Prism ROM 2 Professional certification is no small feat. It demands not just theoretical understanding but also practical fluency with Blue Prism's updated and advanced delivery model. If you're aiming to pass with a high score, leveraging a structured Robotic Operating Model 2 Practice Test could be your smartest move yet.
